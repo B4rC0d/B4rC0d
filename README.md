@@ -13,9 +13,6 @@ I’m currently improving C++ skills<br>I’m looking to collaborate on C/C++ & 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=B4rC0d&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 
   ## 💰 You can help me by Donating
